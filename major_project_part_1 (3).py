@@ -33,6 +33,7 @@ cv2.__version__
 
 from bing_image_downloader import downloader
 downloader.download("dogs",limit=15,output_dir='images',adult_filter_off=True)
+
 downloader.download("cats",limit=15,output_dir='images',adult_filter_off=True)
 
 import os
