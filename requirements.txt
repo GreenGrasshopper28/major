@@ -4,7 +4,7 @@ opencv-contrib-python-headless==4.4.0.46
 numpy==1.18.5
 Pillow==8.0.1
 h5py<3.0.0
-python==3.9.0
+python==3.7.10
 
 
 
