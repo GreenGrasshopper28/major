@@ -1,9 +1,10 @@
 tensorflow==2.5.0rc1
 Keras==2.4.3
 streamlit==0.80.0
-opencv_contrib_python-headless==4.1.2.30
+opencv-contrib-python-headless==4.1.2.30
 numpy==1.19.5
 Pillow==8.2.0
 h5py<3.0.0
+
 
 
