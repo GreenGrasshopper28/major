@@ -5,6 +5,9 @@ from PIL import Image # Strreamlit works with PIL library very easily for Images
 import cv2
 from keras.applications.mobilenet_v2 import preprocess_input,decode_predictions
 
+
+
+
 @st.cache()
 def load_model():
   model = MobileNetV2()
