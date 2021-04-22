@@ -1,4 +1,4 @@
-
+tensorflow==2.5.0rc1
 tensorflow==2.4.1
 Keras==2.4.3
 streamlit==0.80.0
