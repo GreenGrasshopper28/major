@@ -1,10 +1,10 @@
-tensorflow==2.0.0
-streamlit==0.71.0
-opencv-contrib-python-headless==4.4.0.46
-numpy==1.18.5
-Pillow==8.0.1
+
+tensorflow==2.4.1
+Keras==2.4.3
+streamlit==0.80.0
+opencv_contrib_python==4.1.2.30
+numpy==1.19.5
+Pillow==8.2.0
 h5py<3.0.0
-
-
 
 
